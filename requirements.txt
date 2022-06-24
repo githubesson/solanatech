@@ -1,0 +1,2 @@
+node 16.14, npm
+packages: bs58, @solana/web3, fs, prompt-sync
