@@ -4,7 +4,7 @@ const fs = require('fs');
 var base58 = require("bs58");
 
 const Solana = new solweb3.Connection(
-    "https://holynode.com/"
+    "https://api.mainnet-beta.solana.com"
 );
 
 console.log(`walletgen: 1. gen wallets`);
